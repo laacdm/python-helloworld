@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ laacdm }}/python-helloworld:latest
+          tags: laacdm/python-helloworld:latest
 
